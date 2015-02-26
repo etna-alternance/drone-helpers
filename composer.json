@@ -1,0 +1,13 @@
+{
+    "name": "stem/drone",
+    "require-dev": {
+        "guzzlehttp/guzzle": "~5.2"
+    },
+    "authors": [
+        {
+            "name": "Stephane CRIVISIER",
+            "email": "stephane@crivisier.fr"
+        }
+    ],
+    "require": {}
+}
